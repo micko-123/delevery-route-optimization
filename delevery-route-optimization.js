@@ -59,7 +59,3 @@ let start2 = {name: 'start', distance: 1 }
 
 deliveryRouteOptimization(buildings2, start2)
 
-// time complexity 
-BigO(n**2)
-// space 
-BigO(n)
